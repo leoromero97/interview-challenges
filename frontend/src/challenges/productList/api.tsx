@@ -11,13 +11,13 @@ const PRODUCTS: Product[] = [
     id: 2,
     title: "Webcam para streams",
     description: "Webcam marca logitech",
-    price: 200,
+    price: 80,
   },
   {
     id: 3,
     title: "Celular gama alta",
     description: "Celular gama alta, marca xiamoi",
-    price: 300,
+    price: 100,
   },
   {
     id: 4,

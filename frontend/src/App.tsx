@@ -2,7 +2,11 @@ import "./App.css";
 import ProductListApp from "./challenges/productList/App";
 
 function App() {
-  return <ProductListApp />;
+  return (
+    <body>
+      <ProductListApp />
+    </body>
+    );
 }
 
 export default App;
